@@ -125,7 +125,8 @@ o en caso de que se quiera observar toda la ejecucion del server
 ```bash
 docker compose up
 ```
-<img width="667" height="156" alt="image" src="https://github.com/user-attachments/assets/64ba04f2-5974-4c10-b513-f593c7166615" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/189fed0e-2c19-42cf-bd31-d590860c99ef" />
+
 
 ## Iniciar Moodle en el navegador
 usado sustituyendo los 0.0.0.0 por tu direccion ip para iniciar en el moodle 
@@ -133,10 +134,11 @@ usado sustituyendo los 0.0.0.0 por tu direccion ip para iniciar en el moodle
 0.0.0.0:80 
 ```
 seleccionamos el lenguaje
-<img width="946" height="553" alt="image" src="https://github.com/user-attachments/assets/081e6b96-165f-4572-a1d4-3ad189535045" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4b356b6d-45d0-4031-8b92-b4fcfcd9be48" />
 
 proceso de instalacion 
-<img width="901" height="952" alt="image" src="https://github.com/user-attachments/assets/d2e49cd0-3a62-4d50-8405-8033dbb706d5" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/95821c21-4d38-4f61-b717-f16745115260" />
+
 
 seleccionamos la base de datos que usaremos
 <img width="880" height="441" alt="image" src="https://github.com/user-attachments/assets/5bc7ba8d-d608-432d-a9f6-e1e117fca5ef" />
@@ -150,7 +152,7 @@ aceptamos y ya estara listo el MSL.
 ## Configurando moodle 
 
 configuramos el administrador 
-<img width="1862" height="849" alt="image" src="https://github.com/user-attachments/assets/26703481-7a6f-4fe0-99e7-ac79ca539072" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/fd2b2c1d-0ed5-4009-9561-82bd286d8c59" />
 
 creamos curso de ejemplo 
 <img width="1902" height="802" alt="image" src="https://github.com/user-attachments/assets/2b6a0be9-aa94-431d-9dd2-0062b3c98547" />
